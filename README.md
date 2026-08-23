@@ -2,9 +2,9 @@
 
 ##  Project Overview
 
-The **JPG File Organizer** is a Python automation project developed as part of **CodeAlpha Python Programming Task 3 – Task Automation with Python Scripts**.
+The **JPG File Organizer** is a Python automation project developed as part of **CodeAlpha Python Programming Intern**.
 
-The purpose of this project is to automate a simple repetitive file-management task. The program scans a source folder, identifies all `.jpg` image files, and automatically moves them into a separate folder named `JPG_Files`.
+The purpose of this project is to automate a simple repetitive file-management task. The program scans a source folder, identifies all `.jpg` image files, and automatically moves them into a separate folder named `JPG Files`.
 
 This helps reduce manual effort and makes file organization faster and easier.
 
@@ -26,10 +26,10 @@ Instead of manually searching for JPG files and moving them one by one, the Pyth
 
 ##  Features
 
--  Automatically scans the `source_files` folder
+-  Automatically scans the `source file` folder
 -  Detects `.jpg` files
 -  Supports `.jpg`, `.JPG`, and other capitalization variations
--  Automatically creates the `JPG_Files` folder
+-  Automatically creates the `JPG Files` folder
 -  Moves JPG files automatically
 -  Ignores files with other extensions
 -  Displays the total number of files moved
@@ -67,10 +67,10 @@ Instead of manually searching for JPG files and moving them one by one, the Pyth
 ##  Project Structure
 
 ```text
-CodeAlpha-Task3-JPG-File-Organizer/
+JPG-File-Organiser-CodeAlpha-Task-2/
 │
-├── file_organizer.py
+├── jpgfileorganizer.py
 │
-├── source_files/
+├── source file/
 │
-└── JPG_Files/
+└── JPG Files/

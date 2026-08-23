@@ -69,7 +69,7 @@ Instead of manually searching for JPG files and moving them one by one, the Pyth
 ```text
 JPG-File-Organiser-CodeAlpha-Task-2/
 │
-├── jpgfileorganizer.py
+├── jpgfileorganiser.py
 │
 ├── source file/
 │

@@ -63,6 +63,27 @@ Instead of manually searching for JPG files and moving them one by one, the Pyth
 - `shutil.move()`
 
 ---
+##  Important Note for GitHub Testing
+
+When this project is pushed to GitHub, the JPG files used during development and testing may already be organized and moved into the `JPG Files` folder.
+
+Therefore, when someone clones or downloads this repository and runs the program, the `source file` folder may not contain any JPG files available for testing.
+
+###  How to Test the Project
+
+To test the JPG File Organizer:
+
+1. Clone or download this repository.
+2. Open the project in VS Code.
+3. Open the `source file` folder.
+4. Add a few `.jpg` image files manually.
+5. Run `jpgfileorganiser.py`.
+6. The program will detect the JPG files.
+7. The JPG files will automatically be moved into the `JPG Files` folder.
+8. Check the console output to verify the files were organized successfully.
+
+> **Note:** If there are no JPG files inside the `source file` folder after downloading the repository, this is expected. Add a few `.jpg` files to the folder before running the program.
+> ---
 
 ##  Project Structure
 

@@ -99,4 +99,5 @@ JPG-File-Organiser-CodeAlpha-Task-2/
 ```
 ## Author
 **Mohammad Sajeed**
+
 This project was completed as part of a CodeAlpha Python Programming — Internship
